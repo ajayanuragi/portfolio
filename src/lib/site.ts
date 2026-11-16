@@ -1,8 +1,9 @@
-// Update these values with your public portfolio details before launch.
+// Public-facing portfolio identity. Contact details are intentionally omitted.
 export const site = {
   name: "Ajay",
-  title: "Ajay | Personal Portfolio",
-  description: "Ajay’s personal portfolio — a collection of projects, ideas, and work in progress.",
+  title: "Ajay | Full-Stack & Backend Developer",
+  description:
+    "Ajay builds full-stack web apps and backend services using React, Java, Spring Boot, and REST APIs.",
 };
 
 const configuredUrl = process.env.SITE_URL
